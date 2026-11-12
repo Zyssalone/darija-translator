@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Darija Translator",
+    "slug": "darija-translator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#2d5016"
+    },
+    "android": {
+      "package": "com.translator.darija"
+    },
+    "ios": {
+      "bundleIdentifier": "com.translator.darija"
+    }
+  }
+}
