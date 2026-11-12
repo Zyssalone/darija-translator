@@ -1,0 +1,17 @@
+# Secrets
+translator-service/translator.properties
+
+# Build output
+translator-service/target/
+clients/mobile/node_modules/
+clients/mobile/.expo/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
